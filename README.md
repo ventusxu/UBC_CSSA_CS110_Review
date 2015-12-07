@@ -1,2 +1,2 @@
-# UBC_CSSA_CS110_Review
-material for cs110 review session
+# UBC CSSA CS110 Review Session
+Welcome!
